@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hemloo! 👋
+
+I am Aishwarya Harpale, currently a student at Rutgers University, working on wasmCloud. Perviously, my work has also been in Kubernetes, Machine Learning and Full Stack development. I work on anything ranging from Rust to C/C++.
+
+You can add me on [Linkedin](https://www.linkedin.com/in/aishwaryaharpale/) or Twitter [@aish-where-ya](https://twitter.com/aishwhereya).
+
+Thanks for stopping by!
 
 <!--
 **aish-where-ya/aish-where-ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
