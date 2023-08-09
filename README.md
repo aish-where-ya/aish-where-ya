@@ -1,6 +1,6 @@
 ### Hemloo! 👋
 
-I am Aishwarya Harpale, currently a student at Rutgers University, working on wasmCloud. Perviously, my work has also been in Kubernetes, Machine Learning and Full Stack development. I work on anything ranging from Rust to C/C++.
+I am Aishwarya Harpale, currently a working on Web Assembly at Cosmonic. Perviously, my work has also been in Kubernetes, Machine Learning and Full Stack development. I work on anything ranging from Rust to C/C++.
 
 You can add me on [Linkedin](https://www.linkedin.com/in/aishwaryaharpale/) or Twitter [@aish-where-ya](https://twitter.com/aishwhereya).
 
